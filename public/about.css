@@ -1,0 +1,42 @@
+
+.about-text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: black;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 45px;
+    padding: 40px 20% 0 20%;
+}
+h4{
+    font-size: 35px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-bottom: 2px double #fec107;
+}
+.about-title{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 800;
+    color: gray;
+    width: 60%;
+    border-bottom: 3px solid #fec107;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    border: none;
+    
+}
+.about-sign{
+    color: gray;
+    float: right;
+}
+
